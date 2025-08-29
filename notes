@@ -1,0 +1,24 @@
+Pseudoclass:-
+--------------
+
+A CSS pseudo-class is a keyword added to a selector that specifies a special state of the selected element. It allows you to style elements based on their state or position in the DOM without needing to add extra classes or IDs in the HTML.
+
+Syntax:
+
+selector:pseudo-class {
+    property: value;
+}
+
+hover,active,visted,link[inks pseudoclass]
+
+
+pseudoclass elements:-
+----------------------
+
+selevctor type/usd to style specific part of the element
+
+selector:pseudo-class {
+    property: value;
+}
+first-line
+last-line
